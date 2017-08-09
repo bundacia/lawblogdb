@@ -1,6 +1,6 @@
 # Law Blog Example Schema
 
-This repo contains an example schema used in a Learners Guild lecture on SQL schema design ([video](#commingSoon) | [slides](https://docs.google.com/presentation/d/13WpfaofHFVmEg2lchIs6-WdqBSl2LW6M3HJUl6BStj0/edit?usp=sharing)).
+This repo contains an example schema used in a Learners Guild lecture on SQL schema design ([video](https://youtu.be/62qx1Xu2ykA) | [slides](https://docs.google.com/presentation/d/13WpfaofHFVmEg2lchIs6-WdqBSl2LW6M3HJUl6BStj0/edit?usp=sharing)).
 
 ## Usage
 
